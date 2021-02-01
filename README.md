@@ -3,7 +3,7 @@ Target detection and Image Processing component of the UAV project, using Haar C
 
 **Project by ARIK INTENAM MIR, for EGH455 - QUT**
 - **Codes are in Python**. 
-- **Report Included**
+- **Preliminary Design Report, Final Design Report and Presentation of the final overview is included**
 
  **Project Summary**
  
